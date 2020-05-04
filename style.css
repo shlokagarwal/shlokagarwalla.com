@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-family: 'Monoton', cursive;
+  font-family: 'Permanent Marker', cursive;
+}
+canvas {
+  display: block;
+}
+
+b{
+  color: #ff9a02;
+}
